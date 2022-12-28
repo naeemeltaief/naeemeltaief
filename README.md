@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @naeemeltaief
 - 👀 I’m interested in ... Mobile Application Development and Web Development 
-- 🌱 I’m currently learning ... Front-End Development (Angular) & Mongo DB
 - 📫 How to reach me ... naeem.eltai3f@gmail.com
 
 <!---
