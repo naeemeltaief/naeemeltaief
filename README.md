@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NAEEM</h1>
-<h3 align="center">A passionate frontend developer from Libya</h3>
+<h3 align="center">A passionate software developer from Libya</h3>
 
 - 📫 How to reach me **naeem.eltaief@me.com**
 
