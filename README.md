@@ -19,3 +19,5 @@
 
 [![naeemeltaief's GitHub | Stats](https://stats.quira.sh/naeemeltaief/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=naeemeltaief)
 
+[![naeemeltaief's GitHub | Languages Over Time](https://stats.quira.sh/naeemeltaief/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=naeemeltaief)
+
